@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <extension key="nl.sp.correctmandaat" type="module">
   <file>correctmandaat</file>
-  <name>Correctmandaat</name>
+  <name>Correctmandaat (Runonce)</name>
   <description>Correct dubbele mandaten en nullen in mandaten</description>
   <license>AGPL-3.0</license>
   <maintainer>
